@@ -2,7 +2,7 @@
 <resources>
     <string name="update_latest">已经是最新版本</string>
     <string name="update_title">产品更新</string>
-    <string name="update_message">CirclePlus又变得更好啦！</string>
+    <string name="update_message">/me我斜杠又变得更好啦！</string>
     <string name="update_update_btn">更新</string>
     <string name="updating">正在更新</string>
     <string name="update_cancel">取消</string>
